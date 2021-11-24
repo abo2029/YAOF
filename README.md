@@ -40,4 +40,4 @@
 
 ### 鸣谢
 
-转至：QiuSimons/YAOF <b>原固件</b>，并[下载](https://github.com/QiuSimons/R2S-R4S-OpenWrt/releases)
+转至：QiuSimons/YAOF <b>原固件</b>，[下载](https://github.com/QiuSimons/R2S-R4S-OpenWrt/releases)
